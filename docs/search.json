@@ -1,30 +1,58 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Juan Lafuente-Barquero",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "My Blog",
     "section": "",
-    "text": "👋 Hi, I’m Juan! I have a background in Biotechnology and a PhD in Molecular Biology and Biomedicine. Currently, I’m doing a postdoc in Copenhagen where I focus on researching liver cancer.\nAlthough I have spent most of my career in the wet-lab, I’ve always been interested in bioinformatics and graphic design. That’s why I’m excited to launch my personal website! It will be my portfolio to showcase my skills as a scientific illustrator and my learning process in R for bioinformatics. I’m looking forward to share my creative side with the world and explore new career paths. Come along with me on this journey!"
+    "text": "Hello, World!\n\n\n\nwelcome\n\n\n\n\n\n\n\nJuan LB\n\n\nJul 21, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Juan Lafuente-Barquero",
-    "section": "Education",
-    "text": "Education\nUniversity of Seville | Seville, Spain\nPhD in Molecular Biology and Biomedicine | Sep 2011 - Sep 2017\nUniversity Pablo de Olavide | Seville, Spain\nB.A. in biotechnology | Sep 2004 - Sep 2009"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "Juan Lafuente-Barquero",
-    "section": "Experience",
-    "text": "Experience\nBRIC (Copenhagen, DK) | Postdoc, Ass. Professor | Oct 2018 - Present\nCABIMER (Seville, SP) | PhD student, Staff researcher | Jan 2010 - Sep 2017\n\nHello something is here"
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Graphics Portfolio",
+    "section": "",
+    "text": "Hello, World!\n\n\n\nwelcome\n\n\n\n\n\n\n\nJuan LB\n\n\nJul 21, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "JLB BioVis",
     "section": "",
-    "text": "Welcome!\nYou have landed in my personal website."
+    "text": "Welcome!\nYou have landed in my personal website.\nThis is an under construction project, but for the moment feel free to explore the available content or get to know me"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Juan F Lafuente Barquero",
+    "section": "",
+    "text": "👋 Hi, I’m Juan! I have a background in Biotechnology and a PhD in Molecular Biology and Biomedicine. Currently, I’m doing a postdoc in Copenhagen where I focus on researching liver cancer.\nAlthough I have spent most of my career in the wet-lab, I’ve always been interested in bioinformatics and graphic design. That’s why I’m excited to launch my personal website! It will be my portfolio to showcase my skills as a scientific illustrator and my learning process in R for bioinformatics. I’m looking forward to share my creative side with the world and explore new career paths. Come along with me on this journey!"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Juan F Lafuente Barquero",
+    "section": "Education",
+    "text": "Education\nUniversity of Seville | Seville, Spain\nPhD in Molecular Biology and Biomedicine | Sep 2011 - Sep 2017\nUniversity Pablo de Olavide | Seville, Spain\nB.A. in biotechnology | Sep 2004 - Sep 2009"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Juan F Lafuente Barquero",
+    "section": "Experience",
+    "text": "Experience\nBRIC (Copenhagen, DK) | Postdoc, Ass. Professor | Oct 2018 - Present\nCABIMER (Seville, SP) | PhD student, Staff researcher | Jan 2010 - Sep 2017\n\nHello something is here"
+  },
+  {
+    "objectID": "portfolio/welcome/index.html",
+    "href": "portfolio/welcome/index.html",
+    "title": "Hello, World!",
+    "section": "",
+    "text": "Or should I say: “Hello, Quarto!”\nThis is the first post in my upcoming Quarto blog. Welcome!\nI still have to decide what use I will make out of it, but I sense great things are coming… or at least a lot of new things to learn! which is also great :)\n\n\nKeep posted!"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Hello, World!",
+    "section": "",
+    "text": "Or should I say: “Hello, Quarto!”\nThis is the first post in my upcoming Quarto blog. Welcome!\nI still have to decide what use I will make out of it, but I sense great things are coming… or at least a lot of new things to learn! which is also great :)\n\n\nKeep posted!"
   }
 ]

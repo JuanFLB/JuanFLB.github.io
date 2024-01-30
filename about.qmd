@@ -1,6 +1,9 @@
 ---
-title: "Juan Lafuente-Barquero"
-image: profile.jpg
+title: "Juan F Lafuente Barquero"
+format:
+    html:
+      toc: false
+image: images/profile.jpg
 about: 
   template: solana
   links: 

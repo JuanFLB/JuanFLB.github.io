@@ -1,8 +1,21 @@
 ---
 title: "JLB BioVis"
+format: html
+
 ---
+
+<style>
+  body {
+  background-image: path("images/neom-9hWJs7iblh8-unsplash.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+  
+</style>
 
 Welcome!
 
 You have landed in my personal website.  
+
+This is an under construction project, but for the moment feel free to explore the available content or get to know [me](https://juanflb.github.io/about.html)
 

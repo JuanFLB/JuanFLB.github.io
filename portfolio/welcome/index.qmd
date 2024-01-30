@@ -1,0 +1,22 @@
+---
+title: "Hello, World!"
+author: "Juan LB"
+date: "2023-07-21"
+categories: [welcome]
+format: 
+  html:
+    toc: false
+---
+
+### **Or should I say: "Hello, Quarto!"**
+
+This is the first post in my upcoming Quarto blog. Welcome!
+
+I still have to decide what use I will make out of it, but I sense great things are coming... or at least a lot of new things to learn! which is also great :)
+
+<center> 
+![](excited.jpg)
+
+ **Keep posted!** 
+ </center>
+

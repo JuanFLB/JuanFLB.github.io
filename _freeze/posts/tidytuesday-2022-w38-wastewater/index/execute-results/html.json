@@ -1,0 +1,14 @@
+{
+  "hash": "2209cf93c8f909c44c3766a4fd87b6cb",
+  "result": {
+    "markdown": "---\ntitle: \"Tidytuesday22 - Week 38 - wastewater plants\"\nauthor: \"Juan Lafuente\"\ndate: last-modified\ndate-format: \"MMM D YYYY, HH:mm\"\nformat:\n  html:\n    page-layout: full\n    self-contained: true\n    toc: true\n    number-sections: true\n    code-fold: true\n    code-copy: true\n    code-block-background: true\n    code-block-border-left: true\n    theme: cerulean\nexecute: \n  eval: false\n  warning: false\n  error: false\n  message: false\n  cache: true\neditor_options: \n  chunk_output_type: console\n---\n\n\n# Introduction\n\nThis weeks tidytuesday (week 38) is about Hydro wastewater plants\n\nhttps://github.com/rfordatascience/tidytuesday\n\nhttps://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-09-20\n\n\n::: {.cell hash='index_cache/html/package-load_7ab5ae55cf2e1d6ae419bfd1535f9d84'}\n\n```{.r .cell-code}\nlibrary(tidytuesdayR)\nlibrary(ggtext)\nlibrary(ggrepel)\nlibrary(scales)\nlibrary(tidyverse)\n```\n:::\n\n::: {.cell hash='index_cache/html/unnamed-chunk-2_b3b9bba65cf78950ef47e419208fb466'}\n\n```{.r .cell-code}\ntheme_Set(\n  theme_bw() +\n  theme(\n    plot.title = element_markdown(),\n    plot.title.position = \"plot\"\n  )\n)\n```\n:::\n\n::: {.cell hash='index_cache/html/unnamed-chunk-3_4b00f16cf01266aa6e9440f2955dc41c'}\n\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
